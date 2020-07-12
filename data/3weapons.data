@@ -1,0 +1,5 @@
+classes= 3
+train  = data/3weapons_train.txt
+valid  = data/3weapons_val.txt
+names = data/3weapons.names
+backup = backup

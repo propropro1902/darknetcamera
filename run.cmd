@@ -1,0 +1,1 @@
+darknet.exe detector demo data/gunonly.data cfg/yolov3_gun_only.cfg yolov3_custom_train_final_gun_only.weights cctv2.mp4 -json_port 8070 -mjpeg_port 8090 -ext_output -dont_show
